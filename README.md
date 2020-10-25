@@ -4,7 +4,7 @@ Emoji Trends is a quick 🌠, short 🩳, funny 🎉 and geeky 🤓 project made
 
 I used my laptop 💻, my brain 🧠, Google Sheets 📄 + Google Apps Script to scrap desired hashtags on Instagram 📷, without using API, just the right endpoint to get informations.
 
-The result is visible 👀 here http://mehdichaouch.github.io/emojitrends.
+The result is visible 👀 here http://mehdichaouch.github.io/EmojiTrends.
 
 ### Enjoy 😉  #🍿
 
