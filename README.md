@@ -1,4 +1,4 @@
-# [Emoji Trends](http://mehdichaouch.github.io/emojitrends)
+# [Emoji Trends](http://mehdichaouch.github.io/EmojiTrends)
 
 Emoji Trends is a quick 🌠, short 🩳, funny 🎉 and geeky 🤓 project made in one evening when watching Netflix 📺 to see how emoji ❤️🎃😂 are popular on Instagram 📷 by getting them post count.
 

@@ -1,0 +1,24 @@
+{
+  "name": "emoji-trends",
+  "version": "1.0.0",
+  "description": "https://mehdichaouch.github.io/EmojiTrends",
+  "license": "MIT",
+  "private": true,
+  "author": "Mehdi Chaouch",
+  "keywords": [
+    "Emoji",
+    "Trends",
+    "Instagram"
+  ],
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-google": "^0.9.1",
+    "eslint-plugin-async-await": "0.0.0"
+  },
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint **/*.gs --fix --quiet"
+  },
+  "eslintIgnore": [
+    "**/node_modules/**"
+  ]
+}
