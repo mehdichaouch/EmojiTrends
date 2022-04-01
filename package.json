@@ -12,7 +12,7 @@
   ],
   "devDependencies": {
     "eslint": "5.16.0",
-    "eslint-config-google": "^0.9.1",
+    "eslint-config-google": "0.9.1",
     "eslint-plugin-async-await": "0.0.0"
   },
   "scripts": {
